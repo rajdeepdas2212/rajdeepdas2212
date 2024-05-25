@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm... Rajdeep Das</h1>
-<h3 align="center">A Frontend Web Developer</h3>
+<h3 align="center">A Front-End Web Developer</h3>
 
 
 <img  src="ai.gif" height="250px" align="right">
