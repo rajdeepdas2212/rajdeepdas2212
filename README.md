@@ -1,7 +1,7 @@
 <h1 align="center">I am Rajdeep Das</h1>
 <h3 align="center">A frontend Developer </></h3>
 
-<img  src="https://cdn.dribbble.com/users/1523313/screenshots/16134521/media/3975730626bdae63cf9b25d3b634bac3.gif">
+<img  src="ai.gif" height="200px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdeepdas2212&label=Profile%20views&color=0e75b6&style=flat" alt="rajdeepdas2212" /> </p>
 
