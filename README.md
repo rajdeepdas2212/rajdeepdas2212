@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm... Rajdeep Das</h1>
 <h3 align="center">A Frontend Developer from India.........</h3>
 
-<img  src="ai.gif" height="250px" align="right"><br><br>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdeep2212&label=Profile%20views&color=0e75b6&style=flat" alt="rajdeep2212" /> </p>
 
 - Profile: [Rajdeep Das](https://rajdeepdas2212.github.io/RJD_CV/)
