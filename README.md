@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm... Rajdeep Das</h1>
 <h3 align="center">A Frontend Developer from India.........</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdeep2212&label=Profile%20views&color=0e75b6&style=flat" alt="rajdeep2212" /> </p>
+
+<img  src="ai.gif" height="250px" align="right">
 
 - Profile: [Rajdeep Das](https://rajdeepdas2212.github.io/RJD_CV/)
 
@@ -26,3 +27,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=rajdeepdas2212&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rajdeepdas2212&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeepdas2212&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdeep2212&label=Profile%20views&color=0e75b6&style=flat" alt="rajdeep2212" /> </p>
