@@ -1,9 +1,9 @@
-<img src="ai.gif" height="550px" width=100%>
+<img src="giphy.gif" height="450px" width=100%>
 <h1 align="center">Hi, I'm... Rajdeep Das</h1>
 <h3 align="center">A Front-End Web Developer</h3>
 
 
-<img  src="giphy.gif" height="280px" width="380px" align="right">
+<img  src="ai.gif" height="280px" width="380px" align="right">
 
 - Profile: [Rajdeep Das](https://rajdeepdas2212.github.io/RJD_CV/)
 
