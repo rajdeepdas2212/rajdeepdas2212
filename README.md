@@ -1,4 +1,4 @@
-[![MasterHead]()]
+![MasterHead](ban.jpeg)
 <h1 align="center">Hi, I'm... Rajdeep Das</h1>
 <h3 align="center">A Front-End Web Developer</h3>
 
