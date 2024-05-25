@@ -3,7 +3,7 @@
 <h3 align="center">A Front-End Web Developer</h3>
 
 
-<img  src="ai.gif" height="280px" width="380px" align="right">
+<img  src="ai.gif" height="250px" width="380px" align="right">
 
 - Profile: [Rajdeep Das](https://rajdeepdas2212.github.io/RJD_CV/)
 
