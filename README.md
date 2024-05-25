@@ -1,4 +1,4 @@
-<img src="giphy.gif" height="450px" width=100%>
+<img src="giphy.gif" height="400px" width=100%>
 <h1 align="center">Hi, I'm... Rajdeep Das</h1>
 <h3 align="center">A Front-End Web Developer</h3>
 
