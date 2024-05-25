@@ -1,9 +1,9 @@
-![MasterHead](ban.jpeg)
+![MasterHead](GlowMatrix-Large.gif)
 <h1 align="center">Hi, I'm... Rajdeep Das</h1>
 <h3 align="center">A Front-End Web Developer</h3>
 
 
-<img  src="ai.gif" height="250px" align="right">
+<img  src="giphy.gif" height="280px" width="380px" align="right">
 
 - Profile: [Rajdeep Das](https://rajdeepdas2212.github.io/RJD_CV/)
 
