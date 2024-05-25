@@ -1,5 +1,5 @@
 <h1 align="center">I am Rajdeep Das</h1>
-<h3 align="center">A passionate frontend Developer</h3>
+<h3 align="center">A frontend Developer </></h3>
 
 <img align="right" src="https://cdn.dribbble.com/users/1523313/screenshots/16134521/media/3975730626bdae63cf9b25d3b634bac3.gif" height="200px" width="280px">
 
