@@ -38,7 +38,7 @@
       height="40" alt="instagram logo" />
   </a>
   <img width="12" />
-  <a href="https://instagram.com/rajdeepdas2212" target="blank" style="text-decoration: none;">
+  <a href="https://t.me/rajdeepdas2212" target="blank" style="text-decoration: none;">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"
       height="40" alt="telegram logo" />
