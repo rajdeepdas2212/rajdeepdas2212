@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://rajdeepdas2212.github.io/RJD_CV/" target="blank" style="text-decoration: none;">
+  <a href="https://github.com/rajdeepdas2212" target="blank" style="text-decoration: none;">
     <img src="github.jpg" height="40" alt="linkedin logo" />
   </a>
   <img width="12" />
