@@ -1,6 +1,6 @@
-<img src="banner.jpg" height="px" width=100%>
+<img src="ban.png" height="px" width=100%>
 <h1 align="center">Hi, I'm... Rajdeep Das</h1>
-<h3 align="center">A Front-End Web Developer</h3>
+<h3 align="center">A Front-End Developer</h3>
 
 
 <img  src="ai.gif" height="250px" width="380px" align="right">
