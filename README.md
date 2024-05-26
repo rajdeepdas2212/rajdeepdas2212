@@ -15,12 +15,41 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://github.com/rajdeepdas2212" target="blank">
- <img align="center" src="github.jpg" alt="https://github.com/rajdeepdas2212" height="30" width="30"></a>
-<a href="https://rajdeepdas2212.github.io/RJD_CV/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://rajdeepdas2212.github.io/rjd_cv/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100026494006751&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100026494006751&mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/rajdeepdas2212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajdeepdas2212" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="#" height="30" width="40" /></a>
+  <a href="https://rajdeepdas2212.github.io/RJD_CV/" target="blank" style="text-decoration: none;">
+    <img src="github.jpg" height="40" alt="linkedin logo" />
+  </a>
+  <img width="12" />
+  <a href="https://rajdeepdas2212.github.io/RJD_CV/" target="blank" style="text-decoration: none;">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+      height="40" alt="linkedin logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.facebook.com/profile.php?id=100026494006751&mibextid=ZbWKwL" target="blank"
+    style="text-decoration: none;">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg"
+      height="40" alt="facebook logo" />
+  </a>
+  <img width="12" />
+  <a href="https://instagram.com/rajdeepdas2212" target="blank" style="text-decoration: none;">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
+      height="40" alt="instagram logo" />
+  </a>
+  <img width="12" />
+  <a href="https://instagram.com/rajdeepdas2212" target="blank" style="text-decoration: none;">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"
+      height="40" alt="telegram logo" />
+  </a>
+  <img width="12" />
+  <a href="https://instagram.com/rajdeepdas2212" target="blank" style="text-decoration: none;">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg"
+      height="40" alt="youtube logo" />
+  </a>
+  <img width="12" />
 </p>
 
 <h3 align="left">Languages:</h3>
