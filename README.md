@@ -95,7 +95,6 @@ src="https://img.shields.io/github/followers/rajdeepdas2212?logo=github&style=fo
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeepdas2212&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact) </p>
 
-<br><br>
 ## 125 contributions in the last year
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
