@@ -1,8 +1,10 @@
 <img src="ban.png" height="px" width=100%>
 <h1 align="center">Hi, I'm... Rajdeep Das</h1>
 <h3 align="center">A Front-End Developer</h3>
-<a href="https://www.github.com/rajdeepdas2212" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/rajdeepdas2212?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
+
+<!--Followers-->
+<!--<a href="https://www.github.com/rajdeepdas2212" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/rajdeepdas2212?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>-->
 
 <img  src="ai.gif" height="250px" width="380px" align="right">
 
