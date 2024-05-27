@@ -84,13 +84,6 @@ src="https://img.shields.io/github/followers/rajdeepdas2212?logo=github&style=fo
  </a>
 </div>
 
-<h3 align="left">Tools:</h3>
-<div align="left">
- <a href="https://www.canva.com/">
-   <img src="canva.png" height="40" alt="canva logo"  />
- </a>
-</div>
-
  ## GitHub Trophie:
  ![](https://github-profile-trophy.vercel.app/?username=rajdeepdas2212&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
 
