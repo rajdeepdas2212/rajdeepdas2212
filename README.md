@@ -41,6 +41,10 @@ src="https://img.shields.io/github/followers/rajdeepdas2212?logo=github&style=fo
       height="40" alt="instagram logo" />
   </a>
   <img width="12" />
+   <a href="" target="blank" style="text-decoration: none;">
+     <img src="https://img.icons8.com/?size=100&id=MW3L3LMSpawR&format=png&color=000000" height="40" alt="">
+  </a>
+  <img width="12" />
   <a href="https://t.me/rajdeepdas2212" target="blank" style="text-decoration: none;">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"
@@ -52,7 +56,6 @@ src="https://img.shields.io/github/followers/rajdeepdas2212?logo=github&style=fo
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg"
       height="40" alt="youtube logo" />
   </a>
-  <img width="12" />
 </p>
 
 <h3 align="left">Languages:</h3>
