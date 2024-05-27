@@ -43,7 +43,7 @@ src="https://img.shields.io/github/followers/rajdeepdas2212?logo=github&style=fo
   </a>
   <img width="12" />
    <a href="https://wa.me/qr/IIOHHXLIBNXEG1" target="blank" style="text-decoration: none;">
-     <img src="https://img.icons8.com/?size=100&id=MW3L3LMSpawR&format=png&color=000000" height="40" alt="">
+     <img src="whatsapp.png" height="40" alt="">
   </a>
   <img width="12" />
   <a href="https://t.me/rajdeepdas2212" target="blank" style="text-decoration: none;">
