@@ -48,7 +48,7 @@ src="https://img.shields.io/github/followers/rajdeepdas2212?logo=github&style=fo
   <img width="12" />
   <a href="https://t.me/rajdeepdas2212" target="blank" style="text-decoration: none;">
     <img
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"
+      src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg](https://www.flaticon.com/free-icon/whatsapp_4423697?term=whatsapp&page=1&position=10&origin=tag&related_id=4423697)"
       height="40" alt="telegram logo" />
   </a>
   <img width="12" />
