@@ -1,4 +1,4 @@
-<img src="ban3.gif" height="px" width=100%>
+<img src="ban.png" height="px" width=100%>
 <h1 align="center">Hi, I'm... Rajdeep Das</h1>
 <h3 align="center">A Front-End Developer</h3>
 
