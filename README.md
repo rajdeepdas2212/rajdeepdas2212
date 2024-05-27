@@ -6,7 +6,7 @@
 <!--<a href="https://www.github.com/rajdeepdas2212" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rajdeepdas2212?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>-->
 
-<img  src="ban2.gif" height="250px" width="380px" align="right">
+<img  src="ban2.gif" height="250px" width="400px" align="right">
 
 - Profile: [Rajdeep Das](https://rajdeepdas2212.github.io/RJD_CV/)
 
