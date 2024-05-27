@@ -57,11 +57,6 @@ src="https://img.shields.io/github/followers/rajdeepdas2212?logo=github&style=fo
   </a>
 </p>
 
-
-  
-
-
-
 <h3 align="left">Languages:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -86,6 +81,13 @@ src="https://img.shields.io/github/followers/rajdeepdas2212?logo=github&style=fo
 <div align="left">
  <a href="https://code.visualstudio.com/">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+ </a>
+</div>
+
+<h3 align="left">Tools:</h3>
+<div align="left">
+ <a href="https://www.canva.com/">
+   <img src="canva.png" height="40" alt="canva logo"  />
  </a>
 </div>
 
