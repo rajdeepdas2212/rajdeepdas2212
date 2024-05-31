@@ -44,7 +44,7 @@ src="https://img.shields.io/github/followers/rajdeepdas2212?logo=github&style=fo
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="40" alt="telegram logo"  />
   </a>
   <img width="12" />
-  <a href="https://www.youtube.com/@gaming.rajdeep" target="blank" style="text-decoration: none;">
+  <a href="https://youtube.com/@code.with.rajdeep_das?si=MgZvndXHx9-idVDD" target="blank" style="text-decoration: none;">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg"
       height="40" alt="youtube logo" />
