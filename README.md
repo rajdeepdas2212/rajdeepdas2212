@@ -23,7 +23,7 @@ src="https://img.shields.io/github/followers/rajdeepdas2212?logo=github&style=fo
     <img src="github.jpg" height="40" alt="linkedin logo" />
   </a>
   <img width="12" />
-  <a href="https://www.linkedin.com/in/rajdeep-das-370390311/" target="blank"
+  <a href="www.linkedin.com/in/rajdeepdas2212" target="blank"
     style="text-decoration: none;">
     <img
       src="linkedin.png"
