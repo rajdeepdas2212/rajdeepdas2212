@@ -23,6 +23,13 @@ src="https://img.shields.io/github/followers/rajdeepdas2212?logo=github&style=fo
     <img src="github.jpg" height="40" alt="linkedin logo" />
   </a>
   <img width="12" />
+  <a href="https://www.linkedin.com/in/rajdeep-das-370390311/" target="blank"
+    style="text-decoration: none;">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+      height="40" alt="facebook logo" />
+  </a>
+  <img width="12" />
   <a href="https://www.facebook.com/profile.php?id=100026494006751&mibextid=ZbWKwL" target="blank"
     style="text-decoration: none;">
     <img
