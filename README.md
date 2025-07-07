@@ -90,7 +90,7 @@ src="https://img.shields.io/github/followers/rajdeepdas2212?logo=github&style=fo
 
  <p><h2 align="left"><img src="github.jpg"  height="30" width="30"> GitHub Stats:</h2>
 
-<img src="https://komarev.com/ghpvc/?username=rajdeep2212&label=Profile%20views&color=0e75b6&style=flat" height="30" width="30" alt="rajdeep2212" align="right"/> 
+<img src="https://komarev.com/ghpvc/?username=rajdeep2212&label=Profile%20views&color=0e75b6&style=flat" alt="rajdeep2212" align="right"/> 
 
 ![](https://github-readme-stats.vercel.app/api?username=rajdeepdas2212&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
