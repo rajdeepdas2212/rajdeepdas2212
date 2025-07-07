@@ -88,7 +88,7 @@ src="https://img.shields.io/github/followers/rajdeepdas2212?logo=github&style=fo
  ## GitHub Trophie:
  ![](https://github-profile-trophy.vercel.app/?username=rajdeepdas2212&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
 
- <p><h2 align="left"><img src="github.jpg" height="22px"> GitHub Stats:</h2>
+ <p><h2 align="left"><img src="github.jpg"  height="30" width="30"> GitHub Stats:</h2>
 
 <img src="https://komarev.com/ghpvc/?username=rajdeep2212&label=Profile%20views&color=0e75b6&style=flat" height="30" width="30" alt="rajdeep2212" align="right"/> 
 
