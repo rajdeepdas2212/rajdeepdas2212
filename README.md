@@ -25,7 +25,7 @@ src="https://img.shields.io/github/followers/rajdeepdas2212?logo=github&style=fo
 <h3 align="left">Code Editor:</h3>
 <div align="left">
  <a href="https://code.visualstudio.com/">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="30" alt="vscode logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode logo"  />
  </a>
 </div>
 
