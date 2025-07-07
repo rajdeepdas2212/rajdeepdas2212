@@ -22,29 +22,29 @@ src="https://img.shields.io/github/followers/rajdeepdas2212?logo=github&style=fo
   <a href="https://github.com/rajdeepdas2212" target="blank" style="text-decoration: none;">
     <img src="github.jpg" height="40" alt="linkedin logo" />
   </a>
-  <img width="12" />
+  <img width="2" />
   <a href="https://www.linkedin.com/in/rajdeepdas2212" target="blank"
     style="text-decoration: none;">
     <img
       src="linkedin.png"
-      height="35" alt="linkedin logo" />
+      height="2" alt="linkedin logo" />
   </a>
-  <img width="12" />
+  <img width="2" />
   <a href="https://www.facebook.com/profile.php?id=100026494006751&mibextid=ZbWKwL" target="blank"
     style="text-decoration: none;">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg"
       height="" alt="facebook logo" />
   </a>
-  <img width="12" />
+  <img width="2" />
   <a href="https://instagram.com/rajdeepdas2212" target="blank" style="text-decoration: none;">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
       height="40" alt="instagram logo" />
   </a>
-  <img width="12" />
+  <img width="2" />
    <a href="https://wa.me/qr/IIOHHXLIBNXEG1" target="blank" style="text-decoration: none;">
-     <img src="whatsapp.png" height="40" alt="">
+     <img src="whatsapp.png" height="00" alt="">
   </a>
   <img width="12" />
   <a href="https://t.me/rajdeepdas2212" target="blank" style="text-decoration: none;">
