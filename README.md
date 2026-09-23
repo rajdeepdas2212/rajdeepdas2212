@@ -9,13 +9,10 @@ src="https://img.shields.io/github/followers/rajdeepdas2212?logo=github&style=fo
 
 <img  src="giphy.gif" height="215px" width="350px" align="right">
 
-- Profile: [Rajdeep Das](https://rajdeepdas2212.github.io/RJD_CV/)
+- Profile: [Rajdeep Das](https://)
 
 - Email: **rajdeepdas22122004@gmail.com**
 
-- RJD Group Pvt. Ltd. [Scientific calculator](https://rajdeepdas2212.github.io/RJD-Scientific-Calculator/)
-
-- RJD Group Pvt. Ltd. [Calendar](https://rajdeepdas2212.github.io/RJD-Calendar/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
