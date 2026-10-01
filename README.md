@@ -9,9 +9,12 @@ src="https://img.shields.io/github/followers/rajdeepdas2212?logo=github&style=fo
 
 <img  src="giphy.gif" height="215px" width="350px" align="right">
 
-- Profile: [Rajdeep Das](https://)
+### 👨‍💻 About Me
+- 🎓 **Education:** BCA Student at **B.P. Poddar Institute of Management & Technology**, Kolkata
+- 💼 **Experience:** Ex-Full Stack Web Development Intern at **Ardent Computech Pvt. Ltd.**
+- 📧 **Email:** **rajdeepdas22122004@gmail.com**
 
-- Email: **rajdeepdas22122004@gmail.com**
+<br/>
 
 
 <h3 align="left">Connect with me:</h3>
